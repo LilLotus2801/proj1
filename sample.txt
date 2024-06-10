@@ -1,3 +1,5 @@
 This is a sample file 1st line
 2nd line
  adding 3rd line in the file
+ 4th line
+This is the fifth line
